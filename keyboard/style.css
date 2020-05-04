@@ -1,0 +1,106 @@
+html{
+    height: 100%;
+}
+body{
+    height: 100%;
+}
+.main{
+    height: 85%;
+    background-color: peachpuff;
+    width:70%;
+    border-radius:1em;
+    margin:0 auto;
+}
+#tab{
+    height:100%;
+    width:100%;
+    padding-top: 5%;
+
+}
+#row1{
+    height:60%;
+   
+}
+#row2{
+    height:40%;
+}
+#pad{
+    height:90%;
+    width:40%;
+    border-radius: 4px;
+    border:2px solid #a89777;
+    margin:0 auto;
+    margin-bottom: 2%;
+}
+#keys{
+    height: 100%;
+    border-radius: 4px;
+    border:2px solid #a89777;
+    margin:5%;
+    
+}
+#tab2{
+    height:100%;
+    width:100%;
+}
+#r1{
+    height:12%;
+}
+.b1r1{
+    height:100%;
+    width:100%;
+   border-radius: 5px;
+   background-color: black;
+   color:azure;
+   border:0px;
+   padding: 2px;
+
+}
+#b1r1_14{
+    height:100%;
+    width:100%;
+    border-radius: 5px;
+   background-color: black;
+   border:0px;
+   padding: 0px;
+   margin: 1px;;
+   
+}
+#b1r2_14{
+    height:100%;
+    width:100%;
+    border-radius: 5px;
+   background-color: black;
+   border:0px;
+   padding: 0px;
+   color: azure;
+}
+.r2{
+    height:17%;
+}
+#esc{
+    width:8%;
+}
+.return{
+    height:100%;
+    width:195%;
+   border-radius: 5px;
+   background-color: black;
+   color:azure;
+   border:0px;
+   padding: 2px;
+   
+}
+#spa{
+    width:500%;
+}
+#di1{
+  width: 60%;
+}
+#di2{
+    width: 60%;
+  }
+  #di3{
+    width: 60%;
+  }
+
